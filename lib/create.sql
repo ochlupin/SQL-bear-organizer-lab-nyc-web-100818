@@ -7,3 +7,5 @@ CREATE TABLE bears (
   temperament TEXT,
   alive INTEGER
 );
+
+-- ## some comment
